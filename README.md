@@ -15,24 +15,28 @@ Os padrões de projeto estão organizados nas seguintes categorias:
 Cada categoria de padrões de projeto possui uma pasta correspondente. Dentro de cada pasta, você encontrará uma lista dos padrões de projeto incluídos, juntamente com informações sobre cada padrão.
 
 📁/behavioural: Contém padrões de projeto comportamentais.
+
 📁/creational: Contém padrões de projeto criacionais.
+
 📁/structural: Contém padrões de projeto estruturais.
 
 
 # 🗃️ Organização de Cada Padrão de Projeto
+
 Dentro de cada pasta de padrão de projeto, você encontrará os seguintes elementos:
 
 📖 README: Este arquivo contém informações detalhadas sobre o padrão de projeto em questão, incluindo sua descrição, finalidade e contexto de uso.
 
 📊 Diagramas: Um ou mais diagramas podem ser fornecidos para ilustrar visualmente a estrutura e o fluxo do padrão de projeto.
 
-📃Trechos de Código: Exemplos de implementação em uma ou mais linguagens de programação são fornecidos para ajudar a compreender a aplicação prática do padrão.
+📃 Trechos de Código: Exemplos de implementação em uma ou mais linguagens de programação são fornecidos para ajudar a compreender a aplicação prática do padrão.
 
-🚀Sinta-se à vontade para explorar as pastas e arquivos para aprender mais sobre cada padrão de projeto e como eles podem ser aplicados no desenvolvimento de software.
-
-Esperamos que esses exemplos e explicações sejam úteis para você compreender melhor os padrões de projeto e como utilizá-los em seus próprios projetos.
 
 # ⭐ Give a Star!!!
 
+
+🚀 Sinta-se à vontade para explorar as pastas e arquivos para aprender mais sobre cada padrão de projeto e como eles podem ser aplicados no desenvolvimento de software.
+
+Esperamos que esses exemplos e explicações sejam úteis para você compreender melhor os padrões de projeto e como utilizá-los em seus próprios projetos.
 
 Se gostou do projeto, não deixe de deixar uma estrelinha!! 😄
