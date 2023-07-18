@@ -1,6 +1,10 @@
 # Singleton - Creational (Criação)
 
+<<<<<<< HEAD
 #Intenção
+=======
+# Intenção
+>>>>>>> bc7e9639831a7680e9cfe19492d63d20e363b9d3
 
 Garantir que uma classe tenha somente uma instância no programa e fornecer um ponto de acesso global para a mesma.
 
@@ -19,8 +23,11 @@ Note que o Singleton tem duas responsabilidades e isso quebra a regra do SRP (Si
 Isso pode mudar de linguagem para linguagem, mas o senso comum sobre singletons é o seguinte:
 
 - Declarar um campo privado na classe para armazenar a instância do Singleton.
+- 
 - Declarar um método público (getter) para obter a instância do Singleton;
+- 
 - Na chamada do método público, adicione lazy instantiation, ou seja, verifique se uma instância do Singleton já foi criada; se foi, retorne-a, se não crie uma nova instância e retorne-a.
+- 
 - Não permita que novas instâncias da classe. Você pode atingir facilmente este objetivo fazendo o construtor da classe privado.
 
 # Consequências
