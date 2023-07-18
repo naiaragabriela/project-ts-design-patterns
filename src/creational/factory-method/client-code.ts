@@ -1,5 +1,4 @@
 import { CarFactory } from "./factories/car-factory";
-import { CarFactory } from "./factories/car-factory";
 import { randomCarAlgorithm } from "./main/random-vehicle-algorithm";
 import { randomNumbers } from "./utils/random-numbers";
 /*
